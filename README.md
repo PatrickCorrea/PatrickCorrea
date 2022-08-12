@@ -1,4 +1,4 @@
-### Olá! eu sou Patrick Corrêa 👋
+### Olá! eu sou Patrick 👋
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-corr%C3%AAa-2a357b20a/)
 
