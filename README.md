@@ -21,3 +21,5 @@ Sou apaixonado pelo universo da tecnologia e as infinidades que ele nos trás.
 ## Contato.
 
 📧 patrickcorrea07@gmail.com
+
+Linkedin:https://www.linkedin.com/in/patrick-corr%C3%AAa-2a357b20a/
