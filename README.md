@@ -12,14 +12,13 @@
 <img aling="denter" alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img aling="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white"/>     
 </div> <br/>
  
  ## Um pouco sobre mim.
  
  <p>Olá, me chamo Patrick, tenho 25 anos e sou desenvolvedor Front-End.
 Tenho experiências e conhecimentos criando aplicações web em tecnologias como:
-HTML, CSS, JAVASCRIPT e REACT. Além do desenvolvimento profissional procuro me desenvolver no âmbito pessoal buscando sempre mais conhecimentos.<p/>
+HTML, CSS, JAVASCRIPT. Além do desenvolvimento profissional procuro me desenvolver no âmbito pessoal buscando sempre mais conhecimentos.<p/>
  
 ## Contato.
 
