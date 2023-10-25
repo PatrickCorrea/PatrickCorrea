@@ -17,9 +17,7 @@
  
  ## Um pouco sobre mim.
  
-<p>Olá, me chamo Patrick, tenho 25 anos e sou desenvolvedor Front-End.
-Tenho experiências e conhecimentos criando aplicações web em tecnologias como:
-Html, Css, JavaScript e React.Js. Além do desenvolvimento profissional procuro me desenvolver no âmbito pessoal buscando sempre mais conhecimentos.<p/>
+<p>Olá, meu nome é Patrick, tenho 25 anos e estou cursando Análise e Desenvolvimento de Sistemas. Atualmente, atuo como desenvolvedor front-end freelancer. Tenho experiência e conhecimento na criação de aplicações web utilizando tecnologias como HTML, CSS, JavaScript e ReactJS. Além do conhecimento técnico nessas tecnologias, já desenvolvi diversos projetos práticos com elas.<p/>
  
 ## Contatos.
 
