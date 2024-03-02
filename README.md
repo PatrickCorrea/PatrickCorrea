@@ -8,11 +8,16 @@
 
 <div style="display: inline_block>
  <br/>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-<img height="30" width="40" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg>
-<img height="30" width="40" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg>
-<img height="30" width="40" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg>
-</div> <br/>
+ 
+  <img height="30" width="40" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/react/javascript.svg>
+  <img height="30" width="40" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/react/git.svg>
+  <img height="30" width="40" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/react/figma.svg>
+  <img height="30" width="40" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg>
+  <img height="30" width="40" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg>
+  <img height="30" width="40" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg>
+  
+</div> 
+<br/>
  
  ## Um pouco sobre mim.
  
