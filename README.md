@@ -9,9 +9,9 @@
 <div style="display: inline_block>
  <br/>
  
-  <img height="30" width="40" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/react/javascript.svg>
-  <img height="30" width="40" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/react/git.svg>
-  <img height="30" width="40" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/react/figma.svg>
+  <img height="30" width="40" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg>
+  <img height="30" width="40" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg>
+  <img height="30" width="40" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg>
   <img height="30" width="40" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg>
   <img height="30" width="40" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg>
   <img height="30" width="40" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg>
