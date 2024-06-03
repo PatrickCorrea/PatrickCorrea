@@ -11,6 +11,7 @@
  <br/>
  
   <img height="30" width="40" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg>
+  <img height="30" width="40" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg>
   <img height="30" width="40" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg>
   <img height="30" width="40" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg>
   <img height="30" width="40" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg>
