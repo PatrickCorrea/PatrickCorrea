@@ -1,10 +1,10 @@
-### Olá, sejam bem vindos(a)!!! Eu sou Patrick Corrêa 👋
+### Hello, welcome!!! I'm Patrick Corrêa👋
 
 ![Patrickcorrea GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickcorrea&show_icons=true&theme=neon)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickcorrea&layout=compact&theme=neon)
 
-## Tecnologias que uso no meu dia a dia
+## My skills
 
 <div style="display: inline_block>
  
@@ -21,17 +21,17 @@
 
 <br/>
  
- ## Um pouco sobre mim.
+ ## About me.
  
-<p>Olá, meu nome é Patrick, sou um profissional apaixonado por desenvolvimento de software, atualmente cursando o 4º semestre de Análise e Desenvolvimento de Sistemas. Com expertise sólida como desenvolvedor Front-End, venho construindo aplicações web impactantes.
+<p> Hello, my name is Patrick, I am a professional passionate about software development, currently studying the 4th semester of Systems Analysis and Development. With solid expertise as a Front-End developer, I have been building impactful web applications.
 
-Meu conjunto de habilidades abrange HTML, CSS e JavaScript, aliado ao poderoso React.js, e gerenciamento eficiente de versionamento com Git. Além disso, mantenho-me constantemente atualizado com as melhores práticas da indústria.
+My skill set encompasses HTML, CSS and JavaScript, combined with the powerful React.js, and efficient versioning management with Git. Additionally, keep me constantly updated with industry best practices.
 
-Busco não apenas atender, mas superar as expectativas dos usuários, criando experiências digitais envolventes e de alto desempenho. Estou entusiasmado em ampliar meus horizontes na área de Front-End e Mobile, contribuindo para projetos inovadores e desafiadores.
+Busco not only meets, but exceeds user expectations by creating engaging, high-performance digital experiences. I am free to broaden my horizons in the Front-End and Mobile area, contributing to innovative projects and invitations.
 
-Agradeço pela oportunidade de apresentar meu perfil e estou ansioso para discutir como minhas habilidades podem agregar valor à sua equipe.<p/>
+Thank you for the opportunity to present my profile and I look forward to discussing how my skills can add value to your team. <p/>
  
-## Contatos.
+## Contacts.
 
 📧 patrickcorrea07@gmail.com <br/>
 Portifolio:https://patrickcorrea.github.io/meu-portifolio/ <br/>
