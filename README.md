@@ -36,6 +36,6 @@ Thank you for the opportunity to present my profile and I look forward to discus
  
 ## Contacts.
 
-📧 patrickcorrea07@gmail.com <br/>
+📧 patrickjorge.dev@gmail.com <br/>
 Portifolio:https://patrickcorrea.github.io/meu-portifolio/ <br/>
 Linkedin:https://www.linkedin.com/in/patrick-corr%C3%AAa-2a357b20a/
