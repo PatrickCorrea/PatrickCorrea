@@ -34,5 +34,5 @@ Atuo na construção de sistemas completos, integrando front-end, back-end e inf
 
 📧 patrickjorge.dev@gmail.com <br/>
 Portifolio:https://patrickcorrea.github.io/dev-portifolio/<br/>
-Linkedin:https://www.linkedin.com/in/patrick-corr%C3%AAa-2a357b20a/
+Linkedin:https://www.linkedin.com/in/patrick-corr%C3%AAa-2a357b20a/<br/>
 Software House:https://www.cuetech.com.br/
